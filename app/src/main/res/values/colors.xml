@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE6C00</color>
+    <color name="colorPrimaryDark">#c23E10</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorFav">#311b92</color>
+    <color name="colorGrey">@color/cardview_shadow_start_color</color>
+</resources>
